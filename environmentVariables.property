@@ -1,0 +1,10 @@
+browserName = Chrome
+
+#MDMlogin
+Login_URL =https://magento.softwaretestingboard.com/
+Login_username=afghj@gmail.com
+Login__password=Quick@123
+
+
+
+

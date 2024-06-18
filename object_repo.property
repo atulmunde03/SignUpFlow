@@ -1,0 +1,29 @@
+# ==============================================================================
+#			                       SIGNUP
+# ==============================================================================
+
+CREATE_ACCOUNT_BUTTON=xpath->//div[@class='panel header']//a[normalize-space()='Create an Account']
+
+FIRST_NAME_TEXTBOX=xpath->//input[@id='firstname']
+
+LAST_NAME_TEXTBOX=xpath->//input[@id='lastname']
+
+EMAIL_ADD_TEXTBOX=xpath->//input[@id='email_address']
+
+PASSWORD_ADD_TEXTBOX=xpath->//input[@id='password']
+
+PASSWORD_SIGNUP_CONFIRMATION_TEXTBOX=xpath->//input[@id='password-confirmation']
+
+CREATE_ACC_CONFIRMATION_TEXTBOX=xpath->//button[@title='Create an Account']//span[contains(text(),'Create an Account')]
+
+SIGNOUT_DROPDOWN=xpath->//div[@class='panel header']//button[@type='button']
+
+SIGNOUT_BUTTON=xpath->//div[@aria-hidden='false']//a[normalize-space()='Sign Out']
+
+SIGNIN_BUTTON=xpath->//div[@class='panel header']//a[contains(text(),'Sign In')]
+
+EMAIL_TEXTBOX=xpath->//*[@id="email"]
+
+PASSWORD_SIGNIN_TEXTBOX=xpath->//fieldset[@class='fieldset login']//input[@id='pass']
+
+SIGNIN_PORJECT_BUTTON=xpath->//fieldset[@class='fieldset login']//span[contains(text(),'Sign In')]
